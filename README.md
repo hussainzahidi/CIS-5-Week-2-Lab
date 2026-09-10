@@ -1,3 +1,5 @@
+
+
 # Lab 2 · Print a short intro
 
 **Week 02 · Program structure**  
@@ -10,7 +12,9 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** https://github.com/user-attachments/assets/4d115bfb-54f5-4663-b301-f57ccc239ab0
+
+
 
 
 ## Scenario
